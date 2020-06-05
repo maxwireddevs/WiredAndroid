@@ -1,0 +1,290 @@
+<resources>
+    <string name="app_name">Wired</string>
+
+    <string-array name="main">
+        <item>START</item>
+        <item>README.txt</item>
+        <item>SETTINGS</item>
+        <item>ABOUT</item>
+    </string-array>
+
+    <string-array name="f0">
+        <item>TT404</item>
+        <item>README.txt</item>
+        <item>shell.pkk</item>
+        <item>upt.pkk</item>
+    </string-array>
+
+    <integer-array name="i0">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+    </integer-array>
+
+    <string-array name="f1">
+        <item>shell.lck</item>
+        <item>README.txt</item>
+    </string-array>
+
+    <integer-array name="i1">
+        <item>3</item>
+        <item>1</item>
+    </integer-array>
+
+    <string-array name="f2">
+        <item>shell2.lck</item>
+        <item>README.txt</item>
+        <item>keystore</item>
+        <item>subject1.png</item>
+        <item>subject2.png</item>
+        <item>subject3.png</item>
+        <item>subject4.png</item>
+        <item>subject5.png</item>
+    </string-array>
+
+    <integer-array name="i2">
+        <item>5</item>
+        <item>1</item>
+        <item>0</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+    </integer-array>
+
+    <string-array name="f3">
+        <item>bin</item>
+    </string-array>
+
+    <integer-array name="i3">
+        <item>0</item>
+    </integer-array>
+
+    <string-array name="f4">
+        <item>shell2.pkk</item>
+        <item>README.txt</item>
+    </string-array>
+
+    <integer-array name="i4">
+        <item>2</item>
+        <item>1</item>
+    </integer-array>
+
+    <string-array name="f5">
+        <item>shell3.lck</item>
+        <item>feelings.txt</item>
+        <item>map.png</item>
+        <item>SUBJECT1</item>
+    </string-array>
+
+    <integer-array name="i5">
+        <item>5</item>
+        <item>1</item>
+        <item>4</item>
+        <item>0</item>
+    </integer-array>
+
+    <string-array name="f6">
+        <item>SM.exe</item>
+        <item>README.txt</item>
+        <item>bin</item>
+    </string-array>
+
+    <integer-array name="i6">
+        <item>6</item>
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
+
+    <string-array name="f7">
+        <item>withhim.png</item>
+    </string-array>
+
+    <integer-array name="i7">
+        <item>4</item>
+    </integer-array>
+
+    <string-array name="f8">
+        <item>shell4.lck</item>
+        <item>movement.txt</item>
+        <item>ttproposal.png</item>
+        <item>SUBJECT2</item>
+    </string-array>
+
+    <integer-array name="i8">
+        <item>5</item>
+        <item>1</item>
+        <item>4</item>
+        <item>0</item>
+    </integer-array>
+
+    <string-array name="f9">
+        <item>TH.exe</item>
+        <item>README.txt</item>
+        <item>bin</item>
+    </string-array>
+
+    <integer-array name="i9">
+        <item>7</item>
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
+
+    <string-array name="f10">
+        <item>onstage.png</item>
+    </string-array>
+
+    <integer-array name="i10">
+        <item>4</item>
+    </integer-array>
+
+    <string name="readme0">
+        KURO CORPORATIONS\n
+        July 21st, 2042\n
+        TT/00042/CT13425253\n
+        \n
+        PROJECT WIRED\n
+        \n
+        Briefing:\n
+        - .pkk files have been provided for convenient access to locked files.\n
+        - Subject H is located around the core area.\n
+        - Once the virtual wall is breached, Subject H could possibly take advantage of the breach.\n
+        \n
+        Main Objective:\n
+        - Investigate the cause of The Incident.\n
+        - Prevent Subject H from leaving the core.\n
+    </string>
+
+    <string name="readme1">
+        ACCESS TO LOCKED FOLDER: SHELL\n
+        \n
+        Folder key is required for access.\n
+        Any unauthorized breach would result in severe consequences.\n
+    </string>
+
+    <string name="readme2">
+        SHELL 1: SUBJECTS\n
+        March 4th, 2004\n
+        TT/00001/SB164872641\n
+        \n
+        Greetings Director Mayer,\n
+        The following recruits for the project have been gathered:\n
+        First Subject: Initial SM\n
+        Second Subject: Initial TH\n
+        Third Subject: Initial RK\n
+        Fourth Subject: Initial WD\n
+        Fifth Subject: Initial HS\n
+        Necessary details are attached for your convenience.\n
+        \n
+        With regards,\n
+        Dr. Hiroto Takahashi\n
+    </string>
+
+    <string name="readme4">
+        "TRANSCRIPT WITH ▇▇▇▇"\n
+        "September 15th, ▇▇▇▇"\n
+        "TT/▇▇▇▇/▇▇▇▇▇▇▇▇"\n
+        \n
+        "Doctor: Hello, ▇▇▇▇. How are you feeling today?"\n
+        "▇▇▇▇: …"\n
+        "Doctor: Not going to answer? Okay… Let's check your temperature first."\n
+        "▇▇▇▇: …"\n
+        "Doctor: …Why are you staring at me, ▇▇▇▇?"\n
+        "▇▇▇▇: …Cold."\n
+        "Doctor: What?"\n
+        "▇▇▇▇: I feel… Cold."\n
+        "Doctor: Oh… Sorry for that. I will turn off the air conditioner real quick-"\n
+        "▇▇▇▇: No, leave it on, please…"\n
+        "Doctor: …But you just said that you feel cold?"\n
+        "▇▇▇▇: Yes… It's cold."\n
+        "Doctor: Then why don't you want to turn off the air conditioner?"\n
+        "▇▇▇▇: Because it… just is. It's cold. There is no need to change that."\n
+    </string>
+
+    <string name="readme5">
+        When I am near you, I feel calm and secure…\n
+        \n
+        If this is unreal, then I don\'t want to be real.\n
+        \n
+        Let me indulge in this storm while we are together.\n
+        \n
+        Shizuka
+    </string>
+
+    <string name="readme6">
+        "TRANSCRIPT WITH SUBJECT 1"\n
+        "August 21st, ▇▇▇▇"\n
+        "TT/34577/SB23474525723"\n
+        \n
+        "Doctor: So, Mrs. Shizuka?"\n
+        "Shizu: Shizu is fine."\n
+        "Doctor: Thank you for clarifying that."\n
+        "Doctor: Do you understand what is this project about?"\n
+        "Shizu: I have read the description in the letter that you sent to me."\n
+        "Doctor: Well, isn't that relieving."\n
+        "Shizu: So, when can we start with the procedure?"\n
+        "Doctor: Anytime you are ready, Mrs. Shizu."\n
+        "Shizu: Can we start now?"\n
+        "Doctor: However, do note that once the proce-"\n
+        "Shizu: I trust you, Doctor. Please proceed with what you need to do."\n
+        "Doctor: …"\n
+    </string>
+
+    <string name="sm">
+        Never ever leave me…\n
+        \n
+        A happy illusion, with him.
+    </string>
+
+    <string name="sm1">
+        It\'s full of happiness here…\n
+        \n
+        Why won\'t you join us?
+    </string>
+
+    <string name="sm2">
+        Huh…\n
+        \n
+        Love is all that matters…
+    </string>
+
+    <string name="sm3">
+        You just won\'t understand…\n
+        \n
+        Leave us alone.
+    </string>
+
+    <string name="readme8">
+        If I can\'t move my own body anymore,\n
+        Then what the fuck am I?\n
+        Let me do what I want…\n
+        \n
+    </string>
+
+    <string name="readme9">
+        "TRANSCRIPT WITH SUBJECT 2"\n
+        "November 5th, ▇▇▇▇"\n
+        "TT/42317/SB25241613461"\n
+        \n
+        "Thurnbraum: I have read the letter, doc."\n
+        "Doctor: So you understand what this project is all about, right?"\n
+        "Thurnbraum: More than understand, I could confirm that."\n
+        "Doctor: Do note that once the procedure is done, the you as per now won\'t exist anymore."\n
+        "Thurnbraum: I have no affection towards myself right now."\n
+        "Thurnbraum: If this means that I can dance again, so be it."\n
+        "Doctor: If that is really what you want…"\n
+        "Thurnbraum: Could you help me to open the door, please? My wheelchair is stuck."\n
+        "Doctor: …"\n
+        "Thurnbraum: … Oi, doc."\n
+        "Doctor: …Yes?"\n
+        "Thurnbraum: Thank you."\n
+    </string>
+
+    <string name="th">
+        That feeling of \n
+        \n
+        A happy illusion, with him.
+    </string>
+</resources>
